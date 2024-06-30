@@ -1,5 +1,7 @@
 # Data Structures Algorithm DSA | Python + Javascript LEETCODE
 
+![C Logo](https://github.com/TonyBlaiseNTAHE/alx-low_level_programming/blob/master/icons8-c-programming-480.png)
+
 ![Project Logo](https://www.google.com/imgres?q=data%20structures&imgurl=https%3A%2F%2Fmsatechnosoft.in%2Fblog%2Fwp-content%2Fuploads%2F2018%2F09%2FData-Structure-tutorial-MSA-Technosoft.jpg&imgrefurl=https%3A%2F%2Fmsatechnosoft.in%2Fblog%2Fdata-structure%2F&docid=vdZTgTRN3DQHLM&tbnid=7rw0RRxZPQz6rM&vet=12ahUKEwjI-5_u_YKHAxWc9gIHHYNDAhkQM3oECH0QAA..i&w=1024&h=500&hcb=2&ved=2ahUKEwjI-5_u_YKHAxWc9gIHHYNDAhkQM3oECH0QAA)
 
 ## Description
